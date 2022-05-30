@@ -28,7 +28,7 @@ doofzType is a minimalistic and customizable typing test. It features many test 
 
 # Bug report or Feature request
 
-If you encounter a bug or have a feature request, [send us an email](mailto:doofz@globagram.net), [create an issue](https://github.com/monkeytypegame/monkeytype/issues), [create a discussion thread](https://github.com/monkeytypegame/monkeytype/discussions), or [join the Discord server](https://www.discord.gg/monkeytype).
+If you encounter a bug or have a feature request, [send us an email](mailto:doofz@globagram.net)
 
 # Want to Contribute?
 
